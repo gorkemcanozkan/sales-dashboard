@@ -1,0 +1,7 @@
+numpy
+pandas
+streamlit
+sys
+datetime
+plotly.express
+warnings
