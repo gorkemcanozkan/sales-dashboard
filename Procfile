@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run "Sales Dashboard.py"
+web: sh setup.sh && streamlit run Sales_Dashboard.py
