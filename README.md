@@ -15,4 +15,4 @@ Website: https://store-sales-dashboard.herokuapp.com/
     
 # Author
 
-Görkem Can Özkan[https://github.com/gorkemcanozkan]
+-   **Görkem Can Özkan**  - [gorkemcanozkan](https://github.com/gorkemcanozkan)
