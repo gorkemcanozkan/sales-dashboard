@@ -3,4 +3,3 @@ pandas
 streamlit
 datetime
 plotly.express
-warnings
